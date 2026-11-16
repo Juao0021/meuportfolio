@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meu-site-lime-tau.vercel.app/sitemap.xml
